@@ -1,0 +1,16 @@
+F:\Ambiance\HaloMap\obj\Debug\ResolveAssemblyReference.cache
+F:\Ambiance\HaloMap\bin\Debug\HaloMap.dll
+F:\Ambiance\HaloMap\bin\Debug\HaloMap.pdb
+F:\Ambiance\HaloMap\obj\Debug\HaloMap.dll
+F:\Ambiance\HaloMap\obj\Debug\HaloMap.pdb
+G:\Ambiance\HaloMap\bin\Debug\HaloMap.dll
+G:\Ambiance\HaloMap\bin\Debug\HaloMap.pdb
+G:\Ambiance\HaloMap\obj\Debug\ResolveAssemblyReference.cache
+G:\Ambiance\HaloMap\obj\Debug\HaloMap.dll
+G:\Ambiance\HaloMap\obj\Debug\HaloMap.pdb
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\bin\Debug\HaloMap.dll
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\bin\Debug\HaloMap.pdb
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\obj\Debug\HaloMap.csprojAssemblyReference.cache
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\obj\Debug\HaloMap.csproj.CoreCompileInputs.cache
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\obj\Debug\HaloMap.dll
+C:\Users\Mickenzie\Downloads\Ambiance_src\Ambiance\HaloMap\obj\Debug\HaloMap.pdb

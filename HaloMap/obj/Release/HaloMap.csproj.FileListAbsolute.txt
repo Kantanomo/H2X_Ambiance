@@ -1,0 +1,10 @@
+F:\Ambiance\HaloMap\bin\Release\HaloMap.dll
+F:\Ambiance\HaloMap\bin\Release\HaloMap.pdb
+F:\Ambiance\HaloMap\obj\Release\ResolveAssemblyReference.cache
+F:\Ambiance\HaloMap\obj\Release\HaloMap.dll
+F:\Ambiance\HaloMap\obj\Release\HaloMap.pdb
+G:\Ambiance\HaloMap\bin\Release\HaloMap.dll
+G:\Ambiance\HaloMap\bin\Release\HaloMap.pdb
+G:\Ambiance\HaloMap\obj\Release\ResolveAssemblyReference.cache
+G:\Ambiance\HaloMap\obj\Release\HaloMap.dll
+G:\Ambiance\HaloMap\obj\Release\HaloMap.pdb
